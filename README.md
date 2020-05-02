@@ -1,7 +1,8 @@
 # musicon
 Music Event and Store
 
-##stack
+## stack
 HTML, CSS, Handlebars Templating Engine
 
-###Live website
+### Live website
+https://aladearchives.github.io/musicon/
