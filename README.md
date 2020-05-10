@@ -1,5 +1,5 @@
 # Musicon
-Music and Store
+Music Festival and Store
 
 ## Stack
 HTML, CSS, Handlebars Templating Engine
