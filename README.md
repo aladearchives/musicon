@@ -1,7 +1,7 @@
-# musicon
-Music Event and Store
+# Musicon
+Music and Store
 
-## stack
+## Stack
 HTML, CSS, Handlebars Templating Engine
 
 ### Live website
