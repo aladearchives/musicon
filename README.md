@@ -2,7 +2,7 @@
 Music Festival and Store
 
 ## Stack
-HTML, CSS, Handlebars Templating Engine 
+HTML, CSS, Handlebars Templating Engine
 
 ### Live website
 https://aladearchives.github.io/musicon/
