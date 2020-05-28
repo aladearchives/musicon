@@ -10,7 +10,7 @@ const context = {
       description:
         "A piano welcomed to the 21th century. Pianists celebrate the compact form factor and the diversity of synthesized rhythms all in one masterful musical machine.",
       price: "$1,999.00",
-      sale: "$1,699.89",
+      sale: "$1,699.89"
     },
     {
       image:
