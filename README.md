@@ -1,8 +1,8 @@
 # Musicon
 Music Festival and Store
 
-## Stack
-HTML, CSS, Handlebars.js Templating Engine
+## Tech Stack
+HTML, CSS, Handlebars.js Preprocessor
 
 ### Live website
 https://aladearchives.github.io/musicon/
